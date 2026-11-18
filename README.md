@@ -16,15 +16,16 @@ Verho - Curse of Faces 1.1.0 한글패치 입니다.
 
 ---
 
-
 ### 한글패치 제작
 `WHALE59`
 
 ---
+
 # 공지
 패치 완료 후 언어를 일본어로 변경해주세요.
 
 ---
+
 # 패치내역
 
 ### 2026-06-28
@@ -33,13 +34,16 @@ Verho - Curse of Faces 1.1.0 한글패치 입니다.
 
 ### 2026-11-19
 
-라이선스 관련 문제가 있을 수 있어 배포 방식 변경
+라이선스 관련 문제가 있을 수 있어 배포 상식 변경
+
 ---
+
 # Preview
 
 ![메인화면](./Screenshot/1.png)
 
 ---
+
 # License
 
 [xdelta3](https://github.com/jmacd/xdelta) (Apache License 2.0) 
