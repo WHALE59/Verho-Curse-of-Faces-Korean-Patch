@@ -1,5 +1,15 @@
 # Verho - Curse of Faces 비공식 한글패치
 
+<p align="center">
+  <a href="https://store.steampowered.com/app/3017330/Verho_Curse_of_Faces/">
+    <img src="https://cdn.akamai.steamstatic.com/steam/apps/3017330/header.jpg" width="460" alt="Verho - Curse of Faces">
+  </a>
+  <br>
+  <sub>이미지 클릭 시 스팀 상점 페이지로 이동합니다.</sub>
+</p>
+
+---
+
 Verho - Curse of Faces 1.1.0 한글패치 입니다.
 
 버그, 오역 등이 있다면 이슈 등록해주세요.
