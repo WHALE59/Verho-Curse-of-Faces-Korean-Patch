@@ -35,4 +35,4 @@ Verho - Curse of Faces 1.1.0 한글패치 입니다.
 
 [xdelta3](https://github.com/jmacd/xdelta) (Apache License 2.0) 
 
-[Neo 둥근모 Pro font](https://github.com/neodgm/neodgm) (SIL Open Font License 1.1) 
+[Neo 둥근모 Pro font](https://github.com/neodgm/neodgm-pro) (SIL Open Font License 1.1) 
